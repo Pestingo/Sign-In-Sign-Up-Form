@@ -40,4 +40,4 @@ You can easily tweak the colors, fonts, and layouts by modifying the style.css f
 This project is open-source and available under the MIT License.
 
 ✨ Acknowledgments
-Created with ❤️ by Pestingo. If you like this project, consider giving it a ⭐ on GitHub!
+Created with ❤️ by Pestingo(Pester Mbhetse). If you like this project, consider giving it a ⭐ on GitHub!
